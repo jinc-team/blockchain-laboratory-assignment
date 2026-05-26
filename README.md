@@ -10,6 +10,7 @@ Add the group members here with their IDs:
 
 - Abdeta Terefe - UGE/27670/14
 - Hundaol Worku - UGE/27700/14
+- Samuel Alemayehu - UGE/27725/14
 
 ## Member Folders
 
