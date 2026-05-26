@@ -10,11 +10,9 @@ Add the group members here with their IDs:
 
 - Abdeta Terefe - UGE/27670/14
 - Hundaol Worku - UGE/27700/14
-<<<<<<< HEAD
 - Samuel Alemayehu - UGE/27725/14
-=======
 - Ermiyas Alemu - UGE/27688/14
->>>>>>> 4c8b9ce7a8305625475ff1de86b066810be6b203
+- Dagim Nega - UGE/27644/14
 
 ## Member Folders
 
