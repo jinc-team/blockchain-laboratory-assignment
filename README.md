@@ -9,6 +9,7 @@ The root layout uses zero-padded numeric prefixes and lowercase kebab-case so th
 Add the group members here with their IDs:
 
 - Abdeta Terefe - UGE/27670/14
+- Hundaol Worku - UGE/27700/14
 
 ## Member Folders
 
