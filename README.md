@@ -10,6 +10,7 @@ Add the group members here with their IDs:
 
 - Abdeta Terefe - UGE/27670/14
 - Hundaol Worku - UGE/27700/14
+- Ermiyas Alemu - UGE/27688/14
 
 ## Member Folders
 
